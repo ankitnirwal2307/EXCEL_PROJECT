@@ -8,3 +8,5 @@ SALES REPORT
 #REGION WISE QTY 
 
 #MANAGER AND GENDER WISE DATA
+
+<img width="719" height="487" alt="DASHBAORD" src="https://github.com/user-attachments/assets/f8ef1fe9-0658-4fa7-8a7e-dc2ce4bb76d7" />
